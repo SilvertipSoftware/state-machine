@@ -1,6 +1,7 @@
 <?php
 
 use \SilvertipSoftware\StateMachine\StateMachine;
+use PHPUnit\Framework\TestCase;
 
 class StateMachineTest extends TestCase {
 

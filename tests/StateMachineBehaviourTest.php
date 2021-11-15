@@ -2,6 +2,7 @@
 
 use \SilvertipSoftware\StateMachine\StateMachine;
 use \SilvertipSoftware\StateMachine\StateMachineProxy;
+use PHPUnit\Framework\TestCase;
 
 class StateMachineBehaviourTest extends TestCase {
     
